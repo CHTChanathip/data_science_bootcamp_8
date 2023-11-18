@@ -1,5 +1,5 @@
 # data_science_bootcamp_8
-My data portfoliofor data analyst role
+My data portfolio for data analyst role
 
 ## what did I learn  from this bootcamp 
 
